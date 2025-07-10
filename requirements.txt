@@ -1,0 +1,10 @@
+PyMuPDF
+faiss-cpu
+numpy
+Pillow
+torch
+faiss-cpu
+gradio
+sentence-transformers
+transformers
+tqdm
